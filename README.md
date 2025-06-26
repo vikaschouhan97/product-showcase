@@ -2,6 +2,11 @@
 
 A modern and responsive **Product Showcase** web application built using **React**, **TypeScript**, and **Tailwind CSS**. This project displays a catalog of products with interactive UI and clean design.
 
+## 📷 Screenshots
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+
 ## 🚀 Features
 
 - Built with **React** + **TypeScript**
